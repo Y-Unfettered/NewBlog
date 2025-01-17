@@ -4,7 +4,7 @@ import { ref } from 'vue';
 import {
   ElContainer, ElHeader, ElAside, ElMain, ElDialog, ElInput
 } from 'element-plus' // 修正: 正确导入 Element Plus 组件
-import IconLogo from '@/components/icons/iconlogo.vue' // 更新为小写形式
+import IconLogo from '@/components/icons/IconLogo.vue' // 更新为小写形式
 import IconDown from '@/components/icons/IconDown.vue' // 更新为小写形式
 import IconSearch from '@/components/icons/IconSearch.vue';
 import IconAdd from '@/components/icons/IconAdd.vue';
